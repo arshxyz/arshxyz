@@ -8,13 +8,5 @@
 
  
 </div>
-
-
-## About me
-- 👋 Hi, I’m Arsh 
-- 👀 I’m interested in pretty much anything to do with Webdev + a lot more
-- 🌱 I’m currently learning React and Django
-- 💞️ I’m looking to collaborate on React/React Native projects
- 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=arshxyz&show_icons=true&title_color=00de12&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true" />
