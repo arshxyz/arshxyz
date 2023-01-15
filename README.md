@@ -8,5 +8,3 @@
 
  
 </div>
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=arshxyz&show_icons=true&title_color=00de12&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true" />
